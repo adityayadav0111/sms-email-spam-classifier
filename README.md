@@ -1,7 +1,3 @@
-Sure! Here's a detailed overview for a README file that can be used for your GitHub repository on Email/SMS Spam Detection. This README is structured to provide clarity on what the project does, how to install and use it, and the underlying technologies.
-
----
-
 # 📧 Email/SMS Spam Detection
 
 This repository contains a **Spam Classifier** that detects whether an email or SMS message is **Spam** or **Not Spam**. The application uses **Natural Language Processing (NLP)** techniques to preprocess the input message and classify it using a pre-trained machine learning model.
@@ -15,7 +11,6 @@ This repository contains a **Spam Classifier** that detects whether an email or 
 - [Model Training](#model-training)
 - [Dataset](#dataset)
 - [File Structure](#file-structure)
-- [Contributing](#contributing)
 - [Author](#author)
 
 ## 📖 Introduction
@@ -113,21 +108,5 @@ email-spam-classifier/
 └── README.md               # Project documentation (this file)
 ```
 
-## 🤝 Contributing
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
-
-1. Fork the Project.
-2. Create your Feature Branch (`git checkout -b feature/YourFeature`).
-3. Commit your Changes (`git commit -m 'Add your feature'`).
-4. Push to the Branch (`git push origin feature/YourFeature`).
-5. Open a Pull Request.
-
 ## 👨‍💻 Author
 Developed by **Aditya Yadav**. If you have any questions or suggestions, feel free to reach out via GitHub or email.
-
-## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify this as per your needs and add any additional details specific to your project!
